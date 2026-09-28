@@ -1,3 +1,5 @@
+//This main.cpp was broken after we converted the MyArray.h to a stack in class. We didn't have time to update the main.cpp, hence why it was broken.
+
 #include <iostream>
 #include "MyArray.h"
 #include <string>
